@@ -18,7 +18,7 @@ made for.
 
 ## Goals
 
-- [✓] Base Arch Linux install
+- [ ✓ ] Base Arch Linux install
 - [ ] Wine integration (Windows apps)
 - [ ] Waydroid integration (Android apps)
 - [ ] Darling integration (macOS apps)
