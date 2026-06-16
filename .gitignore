@@ -11,3 +11,13 @@
 *.sig
 
 pkg/
+
+# Ignore ntcompat kernel module build artifacts
+src/ntcompat/*.o
+src/ntcompat/*.ko
+src/ntcompat/*.mod.*
+src/ntcompat/.ntcompat*
+src/ntcompat/test_ntstructs
+src/ntcompat/*.cmd
+src/ntcompat/Module.symvers
+src/ntcompat/modules.order
